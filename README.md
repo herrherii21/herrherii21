@@ -56,6 +56,34 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 
 ---
 
+## 🧪 Automation & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,jest,n8n" />
+</p>
+
+---
+
+## 🤖 AI Tools
+
+<p>
+  <strong>ChatGPT</strong>
+  &nbsp;•&nbsp;
+  <strong>Claude</strong>
+  &nbsp;•&nbsp;
+  <strong>Codex</strong>
+  &nbsp;•&nbsp;
+  <strong>Cursor</strong>
+  &nbsp;•&nbsp;
+  <strong>Antigravity</strong>
+  &nbsp;•&nbsp;
+  <strong>GitHub Copilot</strong>
+  &nbsp;•&nbsp;
+  <strong>OpenClaw</strong>
+</p>
+
+---
+
 ## 🎯 Areas of Interest
 
 <p align="center">
