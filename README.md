@@ -51,7 +51,7 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,kubernetes,terraform,ansible,prometheus,grafana,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,figma,reactnative,flutter,kubernetes,terraform,ansible,prometheus,grafana,gcp,azure" />
 </p>
 
 ---
