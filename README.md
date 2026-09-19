@@ -48,28 +48,35 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 
 ---
 
-
-## 🤖 AI Tools
-
-<p>
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="ChatGPT" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" alt="Claude" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex.svg" alt="Codex" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" alt="Cursor" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" alt="Antigravity" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/githubcopilot.svg" alt="GitHub Copilot" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n-8-n.svg" alt="n8n" />
-  <img height="40" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openclaw.svg" alt="OpenClaw" />
-</p>
-
----
-
-
 ## 📚 Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,figma,react,flutter,kubernetes,terraform,ansible,prometheus,grafana,gcp,azure,gitlab,bitbucket,jenkins,jest,trello,jira,lark,odoo" />
 </p>
+
+---
+
+## 🤖 AI Tools
+
+<p align="center">
+  <strong>ChatGPT</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Claude</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Codex</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Cursor</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>Antigravity</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>GitHub Copilot</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>n8n</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>OpenClaw</strong>
+</p>
+
+---
 
 ## 🎯 Areas of Interest
 
