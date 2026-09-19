@@ -51,29 +51,20 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,jest,playwright,kubernetes,terraform,ansible,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,kubernetes,terraform,ansible,prometheus,grafana,gcp,azure" />
 </p>
 
 ---
 
 ## 🎯 Areas of Interest
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📐 System Analysis</h3>
-      <p>Requirements Analysis<br/>Business Process Analysis<br/>System Analysis & Design</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>💻 Full Stack Development</h3>
-      <p>Frontend Development<br/>Backend Development<br/>Database & API Development</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ DevOps Engineering</h3>
-      <p>Application Deployment<br/>Infrastructure & Server Management<br/>CI/CD & Cloud Infrastructure</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  📐 <strong>System Analysis</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💻 <strong>Full Stack Development</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ⚙️ <strong>DevOps Engineering</strong>
+</p>
 
 ---
 
