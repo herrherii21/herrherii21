@@ -38,13 +38,39 @@ I am interested in **Full Stack Development** and **DevOps Engineering**, with a
   <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions" />
 </p>
 
-**Server & Infrastructure:** Proxmox, Webmin, aaPanel, Portainer
+#### Server & Infrastructure
 
-**Cloud Infrastructure:** Hostinger, DigitalOcean, AWS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" height="48" alt="Proxmox" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webmin/webmin-original.svg" height="48" alt="Webmin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" height="48" alt="Portainer" />
+</p>
 
-**Containerization:** Docker, Docker Compose
+**Proxmox · Webmin · aaPanel · Portainer**
 
-**CI/CD:** GitHub Actions
+#### Cloud Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,digitalocean" />
+</p>
+
+**Hostinger · DigitalOcean · AWS**
+
+#### Containerization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+**Docker · Docker Compose**
+
+#### CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+</p>
+
+**GitHub Actions**
 
 ---
 
