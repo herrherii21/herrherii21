@@ -2,46 +2,73 @@
 
 ## 🚀 About Me
 
-Bachelor of Informatics Engineering with experience as a **System Analyst** and **Quality Assurance**. Passionate about **Full Stack Development** and **DevOps Engineering**, building scalable and user-oriented applications through end-to-end software development.
+Fresh Graduate with a **Bachelor’s degree in Informatics Engineering** and professional experience as a **System Analyst**. Experienced in **business analysis, requirements analysis, business process validation, software development, and system testing**, with a strong understanding of the software development lifecycle.
+
+I am interested in **Full Stack Development** and **DevOps Engineering**, with a focus on building reliable, scalable, and user-friendly applications through end-to-end software development. I am also interested in application deployment, server management, and infrastructure that supports reliable software delivery.
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
+### Software Development
+
+#### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" />
 </p>
 
-### Backend
+#### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,flask" />
 </p>
 
-### Database
+#### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### DevOps & Infrastructure
+---
+
+### ⚙️ DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx,githubactions,gitlab" />
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions" />
 </p>
 
-### Version Control & Tools
+**Server & Infrastructure:** Proxmox, Webmin, aaPanel, Portainer
+
+**Cloud Infrastructure:** Hostinger, DigitalOcean, AWS
+
+**Containerization:** Docker, Docker Compose
+
+**CI/CD:** GitHub Actions
+
+---
+
+### 🛠️ Version Control & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,gcp,prometheus,grafana" />
-</p>
+I am continuously developing my knowledge in **cloud infrastructure, containerization, DevOps practices, and software deployment** while strengthening my skills across the software development lifecycle.
+
+---
+
+## 🎯 Areas of Interest
+
+* Full Stack Development
+* Web Application Development
+* Software Engineering
+* DevOps Engineering
+* Application Deployment
+* Server & Infrastructure Management
+* System Analysis
+* Software Testing & UAT
