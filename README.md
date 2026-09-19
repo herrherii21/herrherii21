@@ -35,7 +35,7 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## ⚙️ DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions,aws,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions,aws" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,redis,jest,playwright,kubernetes,terraform,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,nestjs,redis,jest,playwright,kubernetes,terraform,prometheus,grafana" />
 </p>
 
 ---
@@ -59,6 +59,10 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## 🎯 Areas of Interest
 
 <table>
+    <tr>
+    <td>📐 System Analysis</td>
+    <td>🧪 Software Testing & UAT</td>
+  </tr>
   <tr>
     <td>💻 Full Stack Development</td>
     <td>🌐 Web Application Development</td>
@@ -66,14 +70,6 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
   <tr>
     <td>⚙️ Software Engineering</td>
     <td>🚀 DevOps Engineering</td>
-  </tr>
-  <tr>
-    <td>📦 Application Deployment</td>
-    <td>🖥️ Server & Infrastructure Management</td>
-  </tr>
-  <tr>
-    <td>📐 System Analysis</td>
-    <td>🧪 Software Testing & UAT</td>
   </tr>
 </table>
 
