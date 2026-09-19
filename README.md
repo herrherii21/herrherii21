@@ -1,54 +1,76 @@
 # Hi, I'm Heri 👋
 
-## 🚀 About Me
+### Web Developer & DevOps Engineer
 
-Fresh Graduate with a **Bachelor’s degree in Informatics Engineering** and professional experience as a **System Analyst**. Experienced in **business analysis, requirements analysis, business process validation, software development, and system testing**, with a strong understanding of the software development lifecycle.
+Bachelor's degree in **Informatics Engineering** with professional experience as a **System Analyst**. Experienced in **business analysis, requirements analysis, business process validation, software development, and system testing**, with a strong understanding of the software development lifecycle.
 
-I am interested in **Full Stack Development** and **DevOps Engineering**, with a focus on building reliable, scalable, and user-friendly applications through end-to-end software development. I am also interested in application deployment, server management, and infrastructure that supports reliable software delivery.
+I am interested in **Full Stack Development** and **DevOps Engineering**, focusing on building reliable, scalable, and user-friendly applications through end-to-end software development, application deployment, server management, and infrastructure.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-### Software Development
+* 🎓 Bachelor's degree in Informatics Engineering
+* 💻 Interested in Full Stack Development
+* ⚙️ Interested in DevOps Engineering
+* 📐 Experienced in System Analysis
+* 🧪 Experienced in Software Testing & UAT
+* ☁️ Interested in Cloud Infrastructure
+* 🚀 Interested in Application Deployment
+* 🖥️ Interested in Server & Infrastructure Management
 
-#### Frontend
+---
+
+# 💻 Tech Stack
+
+## 🌐 Software Development
+
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" />
 </p>
 
-#### Backend
+**HTML · CSS · JavaScript · TypeScript · Bootstrap · Tailwind CSS · React.js · Next.js**
+
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,flask" />
 </p>
 
-#### Database
+**PHP · CodeIgniter · Laravel · Livewire · Node.js · Express.js · Python · Flask**
+
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
+**SQL · MySQL · PostgreSQL · NoSQL · MongoDB**
+
 ---
 
-### ⚙️ DevOps & Infrastructure
+# ⚙️ DevOps & Infrastructure
+
+## 🖥️ Server & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu" />
 </p>
 
-#### Server & Infrastructure
+**Linux · Debian · Ubuntu**
+
+**Server Management:** Proxmox · Webmin · aaPanel · Portainer
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" height="48" alt="Proxmox" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webmin/webmin-original.svg" height="48" alt="Webmin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" height="48" alt="Portainer" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webmin-7DA0D0?style=for-the-badge&logo=webmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/aaPanel-2C2C2C?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
 </p>
 
-**Proxmox · Webmin · aaPanel · Portainer**
-
-#### Cloud Infrastructure
+## ☁️ Cloud Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,digitalocean" />
@@ -56,7 +78,7 @@ I am interested in **Full Stack Development** and **DevOps Engineering**, with a
 
 **Hostinger · DigitalOcean · AWS**
 
-#### Containerization
+## 📦 Containerization
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker" />
@@ -64,7 +86,7 @@ I am interested in **Full Stack Development** and **DevOps Engineering**, with a
 
 **Docker · Docker Compose**
 
-#### CI/CD
+## 🔄 CI/CD
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions" />
@@ -74,27 +96,57 @@ I am interested in **Full Stack Development** and **DevOps Engineering**, with a
 
 ---
 
-### 🛠️ Version Control & Tools
+# 🛠️ Version Control & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
----
-
-## 📚 Currently Learning
-
-I am continuously developing my knowledge in **cloud infrastructure, containerization, DevOps practices, and software deployment** while strengthening my skills across the software development lifecycle.
+**Git · GitHub · Postman · Visual Studio Code**
 
 ---
 
-## 🎯 Areas of Interest
+# 📚 Currently Learning
 
-* Full Stack Development
-* Web Application Development
-* Software Engineering
-* DevOps Engineering
-* Application Deployment
-* Server & Infrastructure Management
-* System Analysis
-* Software Testing & UAT
+I am continuously developing my knowledge in:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+* ☁️ Cloud Infrastructure
+* 📦 Containerization
+* 🔄 DevOps Practices
+* 🚀 Software Deployment
+* 🖥️ Server & Infrastructure Management
+
+while strengthening my understanding across the **software development lifecycle**.
+
+---
+
+# 🎯 Areas of Interest
+
+<table>
+  <tr>
+    <td>💻 Full Stack Development</td>
+    <td>🌐 Web Application Development</td>
+  </tr>
+  <tr>
+    <td>⚙️ Software Engineering</td>
+    <td>🚀 DevOps Engineering</td>
+  </tr>
+  <tr>
+    <td>📦 Application Deployment</td>
+    <td>🖥️ Server & Infrastructure Management</td>
+  </tr>
+  <tr>
+    <td>📐 System Analysis</td>
+    <td>🧪 Software Testing & UAT</td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Building software, understanding systems, and continuously learning.</i>
+</p>
