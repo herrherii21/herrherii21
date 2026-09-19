@@ -6,11 +6,27 @@
   />
 </p>
 
-<hr>
+<p align="center">
+  <strong>Web Developer & DevOps Engineer</strong>
+  <br>
+  System Analyst · Full Stack Development · DevOps Engineering
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/herrherii21">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://herrherii21.my.id">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:herii2k01@gmail.com">Email</a>
+</p>
+
+---
+
+## 👋 About Me
 
 Fresh Graduate with a **Bachelor’s degree in Informatics Engineering** and professional experience as a **System Analyst**. Experienced in **business analysis, requirements analysis, business process validation, software development, and system testing**, with a strong understanding of the software development lifecycle.
 
-Interested in **Full Stack Development** and **DevOps Engineering**, I am focused on building **reliable, scalable, and user-friendly applications** through end-to-end software development, combining software development knowledge with infrastructure and deployment understanding.
+Interested in **Full Stack Development** and **DevOps Engineering**, I focus on building **reliable, scalable, and user-friendly applications** while understanding the complete journey from **analysis and development to testing, infrastructure, and deployment**.
 
 ---
 
@@ -44,6 +60,12 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
   <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions,aws" />
 </p>
 
+<p align="center">
+  <strong>Server Management</strong>
+  <br>
+  Proxmox &nbsp;•&nbsp; Webmin &nbsp;•&nbsp; aaPanel &nbsp;•&nbsp; Portainer
+</p>
+
 ---
 
 ## 🛠️ Version Control & Tools
@@ -56,7 +78,7 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 
 ## 📚 Currently Learning
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,figma,react,flutter,kubernetes,terraform,ansible,prometheus,grafana,gcp,azure,gitlab,bitbucket,jenkins,jest" />
 </p>
 
@@ -66,19 +88,19 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 
 <p align="center">
   <strong>ChatGPT</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>Claude</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>Codex</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>Cursor</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>Antigravity</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>GitHub Copilot</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>n8n</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   <strong>OpenClaw</strong>
 </p>
 
@@ -88,9 +110,9 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 
 <p align="center">
   📐 <strong>System Analysis</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   💻 <strong>Full Stack Development</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp;•&nbsp;
   ⚙️ <strong>DevOps Engineering</strong>
 </p>
 
