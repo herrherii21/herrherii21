@@ -8,10 +8,6 @@
 
 <hr>
 
-# Hi, I'm Heri 👋
-
-### Web Developer & DevOps Engineer
-
 Fresh Graduate with a **Bachelor’s degree in Informatics Engineering** and professional experience as a **System Analyst**. Experienced in **business analysis, requirements analysis, business process validation, software development, and system testing**, with a strong understanding of the software development lifecycle.
 
 Interested in **Full Stack Development** and **DevOps Engineering**, I am focused on building **reliable, scalable, and user-friendly applications** through end-to-end software development, combining software development knowledge with infrastructure and deployment understanding.
