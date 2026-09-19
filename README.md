@@ -1,3 +1,13 @@
+<p align="center">
+  <img
+    src="./assets/Untitled-1.png"
+    alt="Heri GitHub Profile Header"
+    width="1400"
+  />
+</p>
+
+<hr>
+
 # Hi, I'm Heri 👋
 
 ### Web Developer & DevOps Engineer
