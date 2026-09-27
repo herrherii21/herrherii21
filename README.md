@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     src="./assets/Untitled-1.png"
@@ -21,35 +22,61 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,vue,angular,nuxt" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,flask" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,python,flask,fastapi,django" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,firebase" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,react,flutter" />
 </p>
 
 ---
 
 ## ⚙️ DevOps & Infrastructure
 
+### Infrastructure & Operating Systems
+
 <p>
-  <img src="https://skillicons.dev/icons?i=debian,ubuntu,docker,nginx,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx,cloudflare" />
+</p>
+
+### Cloud & Infrastructure as Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,kubernetes" />
+</p>
+
+### DevOps, CI/CD & Monitoring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket,jenkins,prometheus,grafana" />
+</p>
+
+### Security & Cybersecurity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,elasticsearch" />
 </p>
 
 ---
 
-## 🛠️ Version Control & Tools
+## 🛠️ Tools & Version Control
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,pnpm,notion,obsidian" />
 </p>
 
 ---
@@ -57,7 +84,7 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,nuxt,nestjs,fastapi,django,java,kotlin,go,redis,firebase,supabase,figma,react,flutter,kubernetes,terraform,ansible,prometheus,grafana,gcp,azure,gitlab,bitbucket,jenkins,jest,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,jest,vitest,cypress,selenium,anaconda,python,tensorflow,pytorch,opencv" />
 </p>
 
 ---
