@@ -92,21 +92,14 @@ Interested in **Full Stack Development** and **DevOps Engineering**, I am focuse
 ## 🤖 AI Tools
 
 <p align="center">
-  <strong>ChatGPT</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>Claude</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>Codex</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>Cursor</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>Antigravity</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>GitHub Copilot</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>n8n</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>OpenClaw</strong>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF4500?style=for-the-badge&logoColor=white" alt="OpenClaw" />
 </p>
 
 ---
